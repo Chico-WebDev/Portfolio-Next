@@ -27,7 +27,7 @@ return <div className="container min-h-screen mx-auto flex flex-col justify-cent
   
   <p className="text-gray-800 leading-relaxed">
             Salut ! Je suis <strong>Chico JD</strong>, développeur Web passionné par la création  
-            d'interfaces intuitives et performantes. J'adore travailler avec des technologies modernes  
+            d&apos;interfaces intuitives et performantes. J'adore travailler avec des technologies modernes  
             comme React, Next.js et Tailwind CSS pour monter en compétences et délivrer des expériences utilisateur au top.
           </p>
 

@@ -27,7 +27,7 @@ export default function ProfileCard() {
     return (
     <div className="bg-white shadow-lg rounded-lg p-8 text-gray-800 text-center">
       <h2 className="text-2xl font-semibold mb-12">À propos de moi</h2>
-      <p>Développeur web passionné par la création d'interfaces intuitives et performantes. J’adore travailler avec des technologies modernes  
+      <p>Développeur web passionné par la création d&apos;interfaces intuitives et performantes. J&apos;adore travailler avec des technologies modernes  
             comme React, Next.js et Tailwind CSS pour monter en compétences et délivrer des expériences utilisateur au top.
           </p>
       <div className="flex flex-wrap justify-center py-8 flex-wrap gap-16">
