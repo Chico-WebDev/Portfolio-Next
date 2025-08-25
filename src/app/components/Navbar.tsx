@@ -17,7 +17,7 @@ export default function Navbar() {
     <header className="fixed top-0 w-full bg-white bg-opacity-90 backdrop-blur-lg shadow-md z-50">
       <nav className="container mx-auto flex items-center justify-between py-4 px-6">
         <Link href="/" className="text-xl font-bold text-indigo-900">
-          MonPortfolio
+          Dev Web
         </Link>
         <ul className="hidden md:flex space-x-6">
           {navItems.map(item => (

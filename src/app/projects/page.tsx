@@ -39,9 +39,9 @@ const projects = [
   {
     id: 6,
     title: 'CHICO Bot',
-    description: 'Interface d’interaction avec un bot intelligent développé avec l’API Telegram, permettant des réponses dynamiques en temps réel.',
-    img: '/workshop.PNG',
-    link: 'https://chico-workshop.vercel.app'
+    description: "Interface d'interaction avec un bot intelligent développé avec l'API OpenAI, permettant des réponses dynamiques en temps réel.",
+    img: '/Chico-bot.PNG',
+    link: 'https://chat-bot-chico-jd.vercel.app'
   }
 ];
 

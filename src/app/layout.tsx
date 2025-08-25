@@ -2,10 +2,10 @@ import './globals.css';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 
-export const metadata = { title: 'Mon Portfolio',
-  description: 'Mon portfolio avec Next JS V.1.1.1',
+export const metadata = { title: 'Mon Portfolio dev web',
+  description: 'Mon portfolio dev web',
   icons: {
-    icon: '/favicon.ico',
+    icon: '/Photo-profil.png',
  }
 }
 
