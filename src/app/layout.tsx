@@ -1,6 +1,7 @@
 import './globals.css';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
+import { ReactNode } from 'react';
 
 export const metadata = { title: 'Mon Portfolio dev web',
   description: 'Mon portfolio dev web',
@@ -9,7 +10,7 @@ export const metadata = { title: 'Mon Portfolio dev web',
  }
 }
 
-export default function RootLayout({ children }) {
+export default function RootLayout({ children } : { children: ReactNode }) {
   return (
     <html lang="fr">
       <body>
